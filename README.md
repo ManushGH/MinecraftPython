@@ -1,6 +1,3 @@
-# Minecraft: Pi edition API Python Library
-
-`mcpi` Python library for communicating with [Minecraft: Pi edition](https://minecraft.net/en-us/edition/pi/) and [RaspberryJuice](https://github.com/zhuowei/RaspberryJuice).
 
 ## Installation
 
@@ -16,21 +13,9 @@ pip3 install mcpi
 sudo pip3 install mcpi
 ```
 
-## History
+## Run the program
 
-The [Minecraft: Pi edition](https://minecraft.net/en-us/edition/pi/) Python library was originally created by Mojang and released with Minecraft: Pi edition.
-
-Initial supported was provided for Python 2 only, but during a sprint at PyconUK 2014 it was migrated to Python 3 and [py3minepi](https://github.com/py3minepi/py3minepi) was created.
-
-The ability to hack Minecraft from Python was very popular and the [RaspberryJuice](https://github.com/zhuowei/RaspberryJuice) plugin was created for Minecraft Java edition. RaspberryJuice also extended the API adding additional features.
-
-This python library supports Python 2 & 3 and Minecraft: Pi edition and RaspberryJuice.
-
-Documentation for the Minecraft: Pi edition and RaspberryJuice API's can be found at [www.stuffaboutcode.com/p/minecraft-api-reference.html](http://www.stuffaboutcode.com/p/minecraft-api-reference.html).
-
-It was released onto [PyPI](https://pypi.org) in May 2018.
-
-If you want some cool additional tools for modifying Minecraft, check out [minecraft-stuff](https://minecraft-stuff.readthedocs.io/en/latest/).
+Watch the bootstrap video to run the program, it has audio issues and compresses my voice.
 
 ## Sources
 
